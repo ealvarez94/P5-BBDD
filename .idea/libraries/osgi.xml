@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="osgi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/osgi/org.osgi.compendium-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/osgi/javax.interceptor-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/osgi/hibernate-osgi-5.3.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/osgi/org.osgi.core-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

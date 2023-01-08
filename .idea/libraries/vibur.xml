@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="vibur">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/optional/vibur/vibur-dbcp-22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/vibur/hibernate-vibur-5.3.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/vibur/vibur-object-pool-22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/optional/vibur/slf4j-api-1.7.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
